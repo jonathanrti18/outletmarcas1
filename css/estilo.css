@@ -16,7 +16,6 @@ header#topo{
 }
 div#logo{
 	width: 350px;
-	height: 150	px;
 	margin: auto;
 	
 }
@@ -55,7 +54,7 @@ h1#titulo{
 	font-family: verdana;
 	text-align: center;
 	margin: 15px auto;
-	color: #4B610B;
+	color: black;
 }
 article#conteudo{
 	width: 100%;
@@ -144,13 +143,21 @@ div#reserva{
 }
 .servicos{
 	margin: 0 auto;
-	font-size: 15px;
+	
 	width: 100%
+
 
 }
 .fonte{
 	font-size: 30px;
 	color: #4B610B;
+}
+.figuras{
+	display: inline-block;
+	margin: 5px;
+	
+	background-color: #fff;
+	opacity: 1;
 }
 .fig1{
 	display: inline-block;
@@ -299,6 +306,7 @@ th, td{
 }
 .tabelalinha{
 	background-color: #4B610B;
+}	
 .subtitulo{
 	color: #4B610B;
 	margin: 10px;
@@ -306,4 +314,25 @@ th, td{
 .diasemana{
 	text-align: left;
 	font-weight: bold;
+}
+div#dest{
+	width: 100%;
+	border-top: solid 1px #ccc;
+	border-bottom: solid 1px #ccc;
+	text-align: center;	
+	padding: 5px;
+	margin: 4px;
+	float: right;
+	
+
+	
+	font-family: verdana;
+
+}
+.fpaypal{
+	border-top: solid 1px #ccc;
+	border-bottom: solid 1px #ccc;
+	text-align: center;	
+	padding: 10px 30px;
+	margin: 50px;
 }

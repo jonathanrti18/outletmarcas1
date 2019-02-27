@@ -16,6 +16,11 @@ Sistema operacional Windows 7.
 
 Está sendo usando o HTML (SUBLIME TEXT) com css, Br MODELO (Modelagem do banco), e o projeto está sendo desenvolvido em IDK Java, NET BEANS, Wireframe e Boostrap
 
+
+#### Funcionalidades ####
+
+Login e senha, filtro de busca
+
 #### Desenvolvedores ####
 •	Jonathanrti18 - https://github.com/jonathanrti18
 •	Leozinhoo91

@@ -17,7 +17,7 @@ Sistema operacional Windows 7.
 Está sendo usando o HTML (SUBLIME TEXT) com css, Br MODELO (Modelagem do banco) 
 
 #### Desenvolvedores ####
-•	jonathanrti18
-•	leozinhoo91
+•	Jonathanrti18
+•	Leozinhoo91
 •	MatheusGoms
-•	pedroti18
+•	Pedroti18

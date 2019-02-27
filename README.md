@@ -10,7 +10,11 @@ https://github.com/jonathanrti18/outletmarcas1.git
 
 #### Sistema Operacional ####
 
-Está sendo usando o HTML com css, Br MODELO, tudo sendo efeito através de uma máquina com sistema operacional Windows 7.
+Sistema operacional Windows 7.
+
+#### Aplicativos utilizados ####
+
+Está sendo usando o HTML (SUBLIME TEXT) com css, Br MODELO (Modelagem do banco) 
 
 #### Desenvolvedores ####
 •	Jonathan Rocha

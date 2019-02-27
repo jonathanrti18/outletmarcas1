@@ -12,12 +12,12 @@ https://github.com/jonathanrti18/outletmarcas1.git
 
 Sistema operacional Windows 7.
 
-#### Aplicativos utilizados ####
+#### Programas utilizados ####
 
 Está sendo usando o HTML (SUBLIME TEXT) com css, Br MODELO (Modelagem do banco) 
 
 #### Desenvolvedores ####
-•	Jonathan Rocha
-•	Leonardo Fábbio
-•	Matheus Gomes
-•	Pedro Henrique
+•	jonathanrti18
+•	leozinhoo91
+•	MatheusGoms
+•	pedroti18

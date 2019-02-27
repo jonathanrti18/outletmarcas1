@@ -289,32 +289,7 @@ h5{
 	width: 40%
 
 }
-.titulo{
-	padding: 20px;
-	text-transform: uppercase;
-	color: #4B610B;
-}
-table{
-	width: 60%;
-	margin:25px auto;
-}
-th, td{
-	padding: 10px;
-}
-.tabelatitulo{
-	background-color: #4B610B;
-}
-.tabelalinha{
-	background-color: #4B610B;
-}	
-.subtitulo{
-	color: #4B610B;
-	margin: 10px;
-}
-.diasemana{
-	text-align: left;
-	font-weight: bold;
-}
+
 div#dest{
 	width: 100%;
 	border-top: solid 1px #ccc;
@@ -335,4 +310,52 @@ div#dest{
 	text-align: center;	
 	padding: 10px 30px;
 	margin: 50px;
+}
+.camisas{
+	margin: 35px 35px;
+	width: 100%;
+	display: inline-block;
+	padding: 1px;
+}
+.camisa1{
+	display: inline-block;
+}
+.camisa2{
+	display: inline-block;
+}
+#divBusca{
+  float: right;
+  margin: 3px;
+}
+
+element.style {
+}
+#body-login .box-authentication h3 {
+    color: #000;
+}
+.box-authentication h3 {
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+.box-authentication h3 {
+    font-family: 'Museo500', sans-serif;
+    font-size: 18px;
+    color: #1F1F1F;
+    padding: 30px;
+    border: 1px solid #C8C8C8;
+    background: #FBFBFB;
+}
+.box-authentication>h3 {
+}
+h3 {
+    font-size: 18px;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }

@@ -14,7 +14,7 @@ Sistema operacional Windows 7.
 
 #### Programas utilizados ####
 
-Está sendo usando o HTML (SUBLIME TEXT) com css, Br MODELO (Modelagem do banco) 
+Está sendo usando o HTML (SUBLIME TEXT) com css, Br MODELO (Modelagem do banco), e o projeto está sendo desenvolvido em IDK Java, NET BEANS.
 
 #### Desenvolvedores ####
 •	Jonathanrti18 - https://github.com/jonathanrti18

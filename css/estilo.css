@@ -317,6 +317,12 @@ div#dest{
 	display: inline-block;
 	padding: 1px;
 }
+.camisetas{
+	margin: 35px 35px;
+	width: 100%;
+	display: inline-block;
+	padding: auto;
+}
 .camisa1{
 	display: inline-block;
 }

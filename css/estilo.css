@@ -317,6 +317,12 @@ div#dest{
 	display: inline-block;
 	padding: 1px;
 }
+.camisastst{
+	margin: 10px 0px;
+	width: 170%;
+	display: inline-block;
+	
+}
 .camisetas{
 	margin: 35px 35px;
 	width: 100%;
@@ -325,9 +331,17 @@ div#dest{
 }
 .camisa1{
 	display: inline-block;
+
 }
 .camisa2{
 	display: inline-block;
+}
+.camisa3{
+	display: inline-block;
+}
+.camisa4{
+	display: inline-block;
+	width: 30%;
 }
 #divBusca{
   float: right;
@@ -364,4 +378,33 @@ h3 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+}
+.tabmedidas{
+	width: 100%;
+}
+.tst{
+	width: 125%;
+	text-align: center;
+	font-family: verdana;
+	padding: 10px;
+	
+}
+.camisascompra{
+	}
+.tst{
+	margin: 35px 35px;
+	width: 100%;
+	display: inline-block;
+	padding: 1px;
+}
+.tst2{
+	display: inline-block;
+}
+.asd{
+	text-align: left;
+}
+.botao{
+	text-align: center;
+	
+
 }

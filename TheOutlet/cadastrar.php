@@ -57,13 +57,13 @@
 					        <div class="col-sm-6">
 					            <div class="box-authentication">
 					                <h3>Já Possuo Cadastrado</h3>
-					                <form action="pagina.php#" method="post" accept-charset="utf-8" name="form" class="form-horizontal form" id="form-acessar-conta" autoComplete="on" enctype="multipart/form-data">
+					                <form action="logar.php" method="post" 
 					                <label for="login">Login</label>
 					                <input id="login" name="login" type="login" class="form-control">
 					                <label for="senha">Senha</label>
 					                <input id="senha" name="senha" type="password"  class="form-control">
 					                <br>
-					                <button type="submit" class="button"><!-- <i class="fa fa-lock"></i>  -->Acessar</button>
+					                 <button type="submit" value="acessar" id="acessar" name="acessar">Acessar</button>
 					                </form>                    </div>
 					        </div>
 					        <div class="col-sm-6">
@@ -79,14 +79,14 @@
                                                             <input type="nome" name="nome" id="nome" required class="form-control">
 					                   
 					                    <label>Sobrenome</label>
-                                                            <input type="text" name="sobrenome" id="sobrenome" required maxlength="9" class="form-control sobrenome">
+                                                            <input type="text" name="sobrenome" id="sobrenome" required maxlength="100" class="form-control sobrenome">
 					                  
                                                                    
 					                    <label>Tipo de Logradouro</label>
                                                             <input  type="tipo_logradouro" name="tipo_logradouro" id="tipo_logradouro" required class="form-control">
 					                   
 					                    <label>Logradouro</label>
-                                                            <input  type="logradouro" name="logradouro" type="text"  id="logradouro" required maxlength="9" class="form-control logradouro">
+                                                            <input  type="logradouro" name="logradouro" type="text"  id="logradouro" required maxlength="100" class="form-control logradouro">
 					                    <br>
                                                             <button type="submit" value="Cadastrar" id="cadastrar" name="cadastrar">Cadastrar</button>
                                                         

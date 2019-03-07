@@ -18,10 +18,13 @@ if (isset($_POST["cadastrar"])) {
     
     if(mysqli_query($con, $sqlcadendereco)){
       if(mysqli_query($con, $sqlcadusuario)){
-        echo "<b style='color:green'>Usuário cadastrado com sucesso!</b> </br><a href='areadoaluno.php'>Voltar</a>";
+        echo "Cadastro efetuado com sucesso!";
     }else{
         echo "Não foi possível efetuar o cadastro";
     }
     }
 }
 ?>
+<br>
+<br>
+<a href='index.php?"'>Voltar</a>

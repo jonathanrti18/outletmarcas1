@@ -88,7 +88,7 @@
 					                    <label>Logradouro</label>
                                                             <input  type="logradouro" name="logradouro" type="text"  id="logradouro" required maxlength="9" class="form-control logradouro">
 					                    <br>
-                                                            <button type="submit" value="Cadastrar" id="cadastrar" name="cadastrar">Cadastrar</button>
+                                                            <button type="submit" value="Cadastrar" id="cadastrar" name="cadastrar"  >Cadastrar</button>
                                                         
 					                    </form> 
 					            </div>

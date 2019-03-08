@@ -79,16 +79,16 @@
                                                             <input type="nome" name="nome" id="nome" required class="form-control">
 					                   
 					                    <label>Sobrenome</label>
-                                                            <input type="text" name="sobrenome" id="sobrenome" required maxlength="9" class="form-control sobrenome">
+                                                            <input type="text" name="sobrenome" id="sobrenome" required maxlength="100" class="form-control sobrenome">
 					                  
                                                                    
 					                    <label>Tipo de Logradouro</label>
                                                             <input  type="tipo_logradouro" name="tipo_logradouro" id="tipo_logradouro" required class="form-control">
 					                   
 					                    <label>Logradouro</label>
-                                                            <input  type="logradouro" name="logradouro" type="text"  id="logradouro" required maxlength="9" class="form-control logradouro">
+                                                            <input  type="logradouro" name="logradouro" type="text"  id="logradouro" required maxlength="100" class="form-control logradouro">
 					                    <br>
-                                                            <button type="submit" value="Cadastrar" id="cadastrar" name="cadastrar"  >Cadastrar</button>
+                                                            <button type="submit" value="Cadastrar" id="cadastrar" name="cadastrar">Cadastrar</button>
                                                         
 					                    </form> 
 					            </div>

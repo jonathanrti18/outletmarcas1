@@ -5,6 +5,7 @@
 	</head>
 
 	<body>
+           
 <?php
 
 
@@ -12,11 +13,12 @@
 
     $nome = $_POST['nome'];
     $sobrenome = $_POST['sobrenome'];
+    $senha = $_POST ['senha'];
     $cod = $_POST['cod_cliente'];
 
-    echo "Nome: ".$nome."</br>Sobrenome: ".$sobrenome."</br></br>";
+    echo "Nome: ".$nome."</br>Sobrenome: ".$sobrenome." <br> Senha: ".$senha."</br></br>";
 
-    $adc = "UPDATE usuario SET nome='$nome', sobrenome='$sobrenome' WHERE cod_cliente='$cod'"; 
+    $adc = "UPDATE usuario SET nome='$nome', sobrenome='$sobrenome' , senha='$senha' WHERE cod_cliente='$cod'"; 
 
     $ins = mysqli_query($con,$adc);
 
@@ -33,6 +35,5 @@
     
     
 ?>
-            
 	</body>
 </html>

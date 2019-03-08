@@ -45,16 +45,12 @@
                     <legend>bem vindo,<?php echo $_SESSION['logado']."!";?></legend>
                    
                 </fieldset>
-                <form name="areadoaluno.php" method="POST" action="form_alteracao_senha.php">
-                <input class="testeb" type="submit" name="editarsenha" value="Editar Senha">
-                </form>
-                    <br>
-                <form name="areadoaluno.php" method="POST" action="editar_usuario.php">
-                <input class="testeb" type="submit" name="editardados" value="Alterar Dados">
+                <form name="areadoaluno.php" method="POST" action="formconsultar_cliente.php">
+                <input  type="submit" name="editardados" value="Alterar Dados">
                 </form>
                     <br>
                 <form name="areadoaluno.php" method="POST" action="gerarpdf.php">
-                <input class="testeb" type="submit" name="gerarpdf" value="Gerar Dados Pessoais">
+                <input  type="submit" name="gerarpdf" value="Gerar Dados Pessoais">
                 </form>
 			</header>
 			

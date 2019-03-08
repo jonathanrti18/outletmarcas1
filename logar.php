@@ -1,7 +1,7 @@
 <?php
   session_start();
    
-if(isset($_POST['acessar'])){	
+if($_SERVER['REQUEST_METHOD'] === 'POST'){	
 
     include ("conexao.php");
 
@@ -17,15 +17,14 @@ if(isset($_POST['acessar'])){
 			echo "<h4>Não foi possível logar</h4>";
 		}
 		else{
-                    echo 'localizou';
-		while ($linha = mysqli_fetch_array($resultado)) {
-		   //$login = $linha["login"];
-                   //echo $login.", você está logado!";
-                  
-                    $_SESSION['logado'] = $linha['login'];
-                    //echo $_SESSION['logado'];
-                   header('Location: areadoaluno.php');
-                }
+                    while ($linha = mysqli_fetch_array($resultado)) {
+                       //$login = $linha["login"];
+                       //echo $login.", você está logado!";
+
+                        $_SESSION['logado'] = $linha['login'];
+                        //echo $_SESSION['logado'];
+                       header('Location: areadoaluno.php');
+                    }
                 }
 	
 }

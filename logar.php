@@ -24,9 +24,12 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
                         $_SESSION['logado'] = $linha['login'];
                         //echo $_SESSION['logado'];
                        header('Location: areadoaluno.php');
+                       die();
                     }
                 }
 	
+} else {
+    echo 'Não foi';
 }
 mysqli_close($con);
 ?>

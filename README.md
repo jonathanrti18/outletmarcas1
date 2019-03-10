@@ -19,7 +19,16 @@ Está sendo usando o HTML (SUBLIME TEXT) com css, Br MODELO (Modelagem do banco)
 
 #### Funcionalidades ####
 
-Login e senha, filtro de busca
+Login e senha para usuários, E para adminstradores.
+Área exclusiva para os adminstradores do projeto, tendo funções exclusicas
+
+Consultar e excluir Usuários e Produtos
+
+Editar e excluir Usuários e Produtos
+
+Cadastrar e excluir Usuários e Produtos
+
+Editar e excluir Usuários e Produtos
 
 #### Desenvolvedores ####
 •	Jonathanrti18 - https://github.com/jonathanrti18

@@ -30,6 +30,8 @@ Cadastrar e excluir Usuários e Produtos
 
 Editar e excluir Usuários e Produtos
 
+Gerar PDF com as informações de todos usuários cadastrados
+
 #### Desenvolvedores ####
 •	Jonathanrti18 - https://github.com/jonathanrti18
 •	Leozinhoo91
